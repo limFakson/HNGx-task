@@ -14,6 +14,6 @@ const sd = new Date().getTime()
 UTCtime.innerHTML = sd;
 
 document.getElementById('url').addEventListener('click', () => {
-    window.location.href = "https://github.com/limFakson";
+    window.location.href = "https://github.com/limFakson/HNGx-task";
 
 })
